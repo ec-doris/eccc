@@ -1,6 +1,6 @@
 <nav class="ecl-menu" aria-expanded="false" data-ecl-menu="true">
     <div class="ecl-menu__overlay" data-ecl-menu-overlay="true"></div>
-    <div class="ecl-container ecl-menu__container"><a class="ecl-link ecl-link--standalone ecl-menu__open" href="/example"
+    <div class="ecl-container ecl-menu__container"><a class="ecl-link ecl-link--standalone ecl-menu__open" href="/"
                                                       data-ecl-menu-open="true"><svg focusable="false" aria-hidden="true" class="ecl-icon ecl-icon--s">
                 <use xlink:href="media/icons.svg#general--hamburger"></use>
             </svg>Menu</a>
@@ -21,7 +21,7 @@
             </header>
             <ul class="ecl-menu__list">
                 <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/" class="ecl-menu__link"
-                                                                        data-ecl-menu-link="true">About</a></li>
+                                                                        data-ecl-menu-link="true">About ECCC</a></li>
 {{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/news" class="ecl-menu__link"--}}
 {{--                                                                        data-ecl-menu-link="true">News</a></li>--}}
 {{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/contact" class="ecl-menu__link"--}}

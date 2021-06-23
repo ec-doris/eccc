@@ -7,7 +7,7 @@
                     <div class="inPageDemoSidebar"></div>
                     <nav data-ecl-auto-init="InpageNavigation" class="ecl-inpage-navigation"
                          data-ecl-inpage-navigation="true">
-                        <div class="ecl-inpage-navigation__title">About ECCC</div>
+
                         <div class="ecl-inpage-navigation__body">
                             <button type="button" class="ecl-inpage-navigation__trigger"
                                     id="ecl-inpage-navigation-trigger" data-ecl-inpage-navigation-trigger="true"

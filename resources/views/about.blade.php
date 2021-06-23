@@ -22,43 +22,43 @@
                             <ul class="ecl-inpage-navigation__list" aria-labelledby="ecl-inpage-navigation-trigger"
                                 data-ecl-inpage-navigation-list="true" id="ecl-inpage-navigation-list">
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-1"
+                                                                           href="#mission"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Mission</a>
                                 </li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-2"
+                                                                           href="#tasks"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Tasks</a>
                                 </li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-3"
+                                                                           href="#regulation-establishing-the-ECCC"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Regulation
                                         establishing the ECCC</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-4"
+                                                                           href="#organisation"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Organisation</a>
                                 </li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-5"
+                                                                           href="#composition-and-operation-of-the-governing-board"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Composition
                                         and operation of the Governing Board</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-6"
+                                                                           href="#decision-making"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Decision
                                         making</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-7"
+                                                                           href="#key-functions-of-the-governing-board"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Key
                                         functions of the Governing Board</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-8"
+                                                                           href="#executive-director"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Executive
                                         Director</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-9"
+                                                                           href="#national-coordination-centres"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">National
                                         Coordination Centres (NCCs)</a></li>
                                 <li class="ecl-inpage-navigation__item"><a data-ecl-inpage-navigation-link="true"
-                                                                           href="#inline-nav-10"
+                                                                           href="#strategic-advisory-group"
                                                                            class="ecl-inpage-navigation__link ecl-link ecl-link--standalone">Strategic
                                         Advisory Group</a></li>
                             </ul>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="ecl-col-lg-9">
                     <div class="inPageDemoContent"></div>
-                    <h2 class="ecl-u-type-heading-3" id="inline-nav-1">Mission</h2>
+                    <h2 class="ecl-u-type-heading-3" id="mission">Mission</h2>
                     <p class="ecl-u-type-paragraph-m">The <strong>European Cybersecurity Competence Centre
                             (ECCC)</strong>, together with the <strong>Network of National Coordination Centres
                             (NCCs)</strong>, is Europe’s new framework to support innovation and industrial policy in
@@ -80,7 +80,7 @@
                         businesses, in particular SMEs.</p>
                     <p class="ecl-u-type-paragraph-m">The Centre and the Network together will enhance our <strong>technological
                             sovereignty through joint investment in strategic cybersecurity projects.</strong></p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-2">Tasks</h2>
+                    <h2 class="ecl-u-type-heading-2" id="tasks">Tasks</h2>
                     <p class="ecl-u-type-paragraph-m">The Centre and the Network will <strong>make strategic investment
                             decisions and pool resources</strong> from the EU, its Member States and, indirectly, the industry to
                         improve and strengthen technology and industrial cybersecurity capacities, enhancing the EU’s
@@ -90,7 +90,7 @@
                             of innovative cybersecurity solutions.</strong> It will also facilitate <strong>collaboration and the sharing of
                             expertise and capacities</strong> among all relevant stakeholders, in particular research and industrial
                         communities, as well as public authorities, in the Community.</p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-3">Regulation establishing the ECCC</h2>
+                    <h2 class="ecl-u-type-heading-2" id="regulation-establishing-the-ECCC">Regulation establishing the ECCC</h2>
                     <p class="ecl-u-type-paragraph-m">On 8 June 2021, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0817" class="ecl-link ecl-link--default" aria-label="the Regulation establishing the European Cybersecurity Competence Centre and Network was published.">the Regulation establishing the European
                             Cybersecurity Competence Centre and Network was published.</a></p>
                     <p class="ecl-u-type-paragraph-m">During the negotiations that led to the adoption of the
@@ -102,7 +102,7 @@
                         particular voting powers on decisions affecting the EU budget.</p>
                     <p class="ecl-u-type-paragraph-m">The ECCC is a new EU body established under articles 173(3) and
                         188(1) of the Treaty on the Functioning of the European Union (TFEU).</p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-4">Organisation</h2>
+                    <h2 class="ecl-u-type-heading-2" id="organisation">Organisation</h2>
                     <p class="ecl-u-type-paragraph-m">The ECCC is currently being set up. The Commission will ensure the
                         functioning of the ECCC until this new EU body can operate autonomously.</p>
                     <p class="ecl-u-type-paragraph-m">The ECCC administrative and governance structure includes:
@@ -123,7 +123,7 @@
                     <p class="ecl-u-type-paragraph-m">The ECCC will closely cooperate with the <strong>Network of National
                             Coordination Centres (NCCs)</strong>, one per Member State, which support the cybersecurity Community at
                         national level and under certain conditions can pass on EU funding.</p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-5">Composition and operation of the Governing
+                    <h2 class="ecl-u-type-heading-2" id="composition-and-operation-of-the-governing-board">Composition and operation of the Governing
                         Board:</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
@@ -144,7 +144,7 @@
                     </ul>
 
                     </p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-6">Decision making:</h2>
+                    <h2 class="ecl-u-type-heading-2" id="decision-making">Decision making:</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item">In principle, <strong>all decisions are taken by consensus</strong> among
@@ -164,7 +164,7 @@
                     </ul>
 
                     </p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-7">Key functions of the Governing Board:</h2>
+                    <h2 class="ecl-u-type-heading-2" id="key-functions-of-the-governing-board">Key functions of the Governing Board:</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item">To provide <strong>strategic orientations and oversee the Centre’s
@@ -184,7 +184,7 @@
                     </ul>
 
                     </p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-8">Executive Director:</h2>
+                    <h2 class="ecl-u-type-heading-2" id="executive-director">Executive Director:</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item">Responsible for the <strong>day-to-day management</strong> of the Centre
@@ -200,7 +200,7 @@
                         </li>
                     </ul>
                     </p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-9">National Coordination Centres (NCCs)</h2>
+                    <h2 class="ecl-u-type-heading-2" id="national-coordination-centres">National Coordination Centres (NCCs)</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item">One NCC from each Member State</li>
@@ -220,7 +220,7 @@
                     </ul>
 
                     </p>
-                    <h2 class="ecl-u-type-heading-2" id="inline-nav-10">Strategic Advisory Group:</h2>
+                    <h2 class="ecl-u-type-heading-2" id="strategic-advisory-group">Strategic Advisory Group:</h2>
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item"><strong>Composition: 20 members</strong> appointed by the Governing Board

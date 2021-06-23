@@ -4,7 +4,7 @@
                                                       data-ecl-menu-open="true"><svg focusable="false" aria-hidden="true" class="ecl-icon ecl-icon--s">
                 <use xlink:href="media/icons.svg#general--hamburger"></use>
             </svg>Menu</a>
-        <div class="ecl-menu__site-name">The European Cybersecurity Competence Centre (ECCC)</div>
+
         <section class="ecl-menu__inner" data-ecl-menu-inner="true">
             <header class="ecl-menu__inner-header"><button data-ecl-menu-close="true" type="submit"
                                                            class="ecl-menu__close ecl-button ecl-button--text"><span
@@ -20,12 +20,12 @@
             </svg><span class="ecl-button__label" data-ecl-label="true">Back</span></span></button>
             </header>
             <ul class="ecl-menu__list">
-                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/example" class="ecl-menu__link"
-                                                                        data-ecl-menu-link="true">Home</a></li>
-                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/example" class="ecl-menu__link"
-                                                                        data-ecl-menu-link="true">News</a></li>
-                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/example" class="ecl-menu__link"
-                                                                        data-ecl-menu-link="true">Contact</a></li>
+                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/" class="ecl-menu__link"
+                                                                        data-ecl-menu-link="true">About</a></li>
+{{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/news" class="ecl-menu__link"--}}
+{{--                                                                        data-ecl-menu-link="true">News</a></li>--}}
+{{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/contact" class="ecl-menu__link"--}}
+{{--                                                                        data-ecl-menu-link="true">Contact</a></li>--}}
 
 
             </ul>

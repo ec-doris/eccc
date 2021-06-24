@@ -71,25 +71,26 @@
                     <p class="ecl-u-type-paragraph-m">The <strong>European Cybersecurity Competence Centre
                             (ECCC)</strong>, together with the <strong>Network of National Coordination Centres
                             (NCCs)</strong>, is Europe’s new framework to support innovation and industrial policy in
-                        cybersecurity. This ecosystem will strengthen the capacities of the cybersecurity technology
-                        Community, shield our economy and society from cyberattacks, maintain research excellence and
+                        cybersecurity.</p>
+                    <p class="ecl-u-type-paragraph-m"> This ecosystem will strengthen the capacities of the cybersecurity technology
+                        community, shield our economy and society from cyberattacks, maintain research excellence and
                         reinforce the competitiveness of EU industry in this field.</p>
                     <p class="ecl-u-type-paragraph-m">The ECCC, which will be located in Bucharest, will develop and
-                        implement, with Member States, industry and the cybersecurity technology Community, a common
+                        implement, with Member States, industry and the cybersecurity technology community, a common
                         agenda for technology development and for its wide deployment in areas of public interest and in
                         businesses, in particular SMEs.</p>
                     <p class="ecl-u-type-paragraph-m">The Centre and the Network together will enhance our <strong>technological
                             sovereignty through joint investment in strategic cybersecurity projects.</strong></p>
                     <h2 class="ecl-u-type-heading-2" id="tasks">Tasks</h2>
                     <p class="ecl-u-type-paragraph-m">The Centre and the Network will <strong>make strategic investment
-                            decisions and pool resources</strong> from the EU, its Member States and, indirectly, the industry to
+                            decisions and pool resources</strong> from the EU, its Member States and, indirectly, industry, to
                         improve and strengthen technology and industrial cybersecurity capacities, enhancing the EU’s
                         open strategic autonomy. The Centre will play a key role in delivering on the ambitious
                         cybersecurity objectives of the <a href="https://digital-strategy.ec.europa.eu/en/activities/digital-programme" class="ecl-link ecl-link--default" aria-label="Digital Europe Programme">Digital Europe Programme</a> and <a href="https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en" class="ecl-link ecl-link--default" aria-label="Horizon Europe">Horizon Europe</a> programmes.</p>
                     <p class="ecl-u-type-paragraph-m">The Centre together with the Network will support the <strong>deployment
                             of innovative cybersecurity solutions.</strong> It will also facilitate <strong>collaboration and the sharing of
                             expertise and capacities</strong> among all relevant stakeholders, in particular research and industrial
-                        communities, as well as public authorities, in the Community.</p>
+                        communities, as well as public authorities, in the community.</p>
                     <h2 class="ecl-u-type-heading-2" id="regulation-establishing-the-ECCC">Regulation establishing the ECCC</h2>
                     <p class="ecl-u-type-paragraph-m">On 8 June 2021, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0817" class="ecl-link ecl-link--default" aria-label="the Regulation establishing the European Cybersecurity Competence Centre and Network was published.">the Regulation establishing the European
                             Cybersecurity Competence Centre and Network was published.</a></p>
@@ -107,21 +108,21 @@
                         functioning of the ECCC until this new EU body can operate autonomously.</p>
                     <p class="ecl-u-type-paragraph-m">The ECCC administrative and governance structure includes:
                     <ul class="ecl-unordered-list">
-                        <li class="ecl-unordered-list__item">A <strong>Governing Board</strong> which provides strategic orientation and
-                            oversees ECCC activities.
+                        <li class="ecl-unordered-list__item">a <strong>Governing Board</strong> which provides strategic orientation and
+                            oversees ECCC activities;
                         </li>
-                        <li class="ecl-unordered-list__item">An <strong>Executive Director</strong> who is the ECCC’s legal
-                            representative and is responsible for its day-to-day management.
+                        <li class="ecl-unordered-list__item">an <strong>Executive Director</strong> who is the ECCC’s legal
+                            representative and is responsible for its day-to-day management;
                         </li>
-                        <li class="ecl-unordered-list__item">A <strong>Strategic Advisory Group</strong> that ensures a comprehensive,
-                            ongoing and permanent dialogue between the Community and the Competence Centre.
+                        <li class="ecl-unordered-list__item">a <strong>Strategic Advisory Group</strong> that ensures a comprehensive,
+                            ongoing and permanent dialogue between the community and the Competence Centre.
                         </li>
                     </ul>
 
 
                     </p>
                     <p class="ecl-u-type-paragraph-m">The ECCC will closely cooperate with the <strong>Network of National
-                            Coordination Centres (NCCs)</strong>, one per Member State, which support the cybersecurity Community at
+                            Coordination Centres (NCCs)</strong>, one per Member State, which support the cybersecurity community at
                         national level and under certain conditions can pass on EU funding.</p>
                     <h2 class="ecl-u-type-heading-2" id="composition-and-operation-of-the-governing-board">Composition and operation of the Governing
                         Board:</h2>
@@ -136,7 +137,7 @@
                             observers on an ad-hoc basis
                         </li>
                         <li class="ecl-unordered-list__item"><strong>A Chairperson and a Deputy Chairperson</strong> elected among the
-                            members of the Governing Board for three years, once renewable.
+                            members of the Governing Board for three years, once renewable
                         </li>
                         <li class="ecl-unordered-list__item">The <strong>Executive Director</strong> will take part in the meetings of
                             the Governing Board but shall have no right to vote
@@ -176,7 +177,7 @@
                         <li class="ecl-unordered-list__item">To adopt <strong>the financial rules</strong>, the <strong>anti-fraud strategy,
                                 rules for the prevention and management of conflicts of interest, communication policy</strong>
                         </li>
-                        <li class="ecl-unordered-list__item">To set up <strong>working groups within the Community</strong></li>
+                        <li class="ecl-unordered-list__item">To set up <strong>working groups within the community</strong></li>
                         <li class="ecl-unordered-list__item">To appoint the Executive Director and the Accounting
                             Officer
                         </li>
@@ -224,7 +225,7 @@
                     <p class="ecl-u-type-paragraph-m">
                     <ul class="ecl-unordered-list">
                         <li class="ecl-unordered-list__item"><strong>Composition: 20 members</strong> appointed by the Governing Board
-                            from among the representatives of the entities of the cyber Community
+                            from among the representatives of the entities of the cyber community
                         </li>
                         <li class="ecl-unordered-list__item"><strong>Expertise</strong> in cybersecurity research, industrial
                             development, professional services or products

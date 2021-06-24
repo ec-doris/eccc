@@ -2,6 +2,7 @@
 <head>
     <meta charset="utf-8"/>
     <title>The European Cybersecurity Competence Centre (ECCC)</title>
+
     <meta content="width=device-width,initial-scale=1" name="viewport"/>
     <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
     <script>

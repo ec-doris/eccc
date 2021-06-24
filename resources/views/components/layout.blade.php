@@ -29,7 +29,14 @@
 <x-menu></x-menu>
 
 
-{{ $slot }}
+
+<div>
+    <div class="ecl-container">
+
+        {{ $slot }}
+
+    </div>
+</div>
 
 <x-footer></x-footer>
 

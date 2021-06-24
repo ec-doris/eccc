@@ -24,8 +24,8 @@
                                                                         data-ecl-menu-link="true">About ECCC</a></li>
 {{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/news" class="ecl-menu__link"--}}
 {{--                                                                        data-ecl-menu-link="true">News</a></li>--}}
-{{--                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/contact" class="ecl-menu__link"--}}
-{{--                                                                        data-ecl-menu-link="true">Contact</a></li>--}}
+                <li class="ecl-menu__item" data-ecl-menu-item="true"><a href="/contact" class="ecl-menu__link"
+                                                                        data-ecl-menu-link="true">Contact</a></li>
 
 
             </ul>

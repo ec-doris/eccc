@@ -1,7 +1,7 @@
 <x-layout>
 
-    <div>
-        <div class="ecl-container">
+    <x-breadcrumb title="About ECCC"></x-breadcrumb>
+
             <div class="ecl-row ecl-u-mt-l">
                 <div class="ecl-col-lg-3">
                     <div class="inPageDemoSidebar"></div>
@@ -254,8 +254,7 @@
 
                 </div>
             </div>
-        </div>
-    </div>
+
 
 </x-layout>
 

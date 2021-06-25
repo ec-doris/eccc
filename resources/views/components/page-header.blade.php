@@ -41,7 +41,7 @@
 {{--        </nav>--}}
 
         <h1 class="ecl-page-header-core__title">European Cybersecurity Competence Centre (ECCC)</h1>
-        <p class="ecl-page-header-core__description">The European Cybersecurity Competence Centre (ECCC) aims to increase Europe’s cybersecurity capacities and competitiveness, working together with a Network of National Coordination Centres (NCCs) to build a strong cybersecurity Community.
+        <p class="ecl-page-header-core__description">The <strong>European Cybersecurity Competence Centre (ECCC)</strong> aims to increase Europe’s cybersecurity capacities and competitiveness.
         </p>
     </div>
 </div>
